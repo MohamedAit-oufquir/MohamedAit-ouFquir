@@ -10,6 +10,8 @@
 - 💬 Ask me about **Software, Android , automation, MEARN**
 
 - 📫 How to reach me **MohamedouFquir.dev@gmail.com**
+  
+- About me **https://portfoliomed1.netlify.app/#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
