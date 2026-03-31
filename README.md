@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bank systems**
 
-- 💬 Ask me about **Android , automation, MEARN**
+- 💬 Ask me about **Software, Android , automation, MEARN**
 
 - 📫 How to reach me **MohamedouFquir.dev@gmail.com**
 
